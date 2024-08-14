@@ -16,15 +16,14 @@ const HeadDesignerSection = ({ image, direction }) => {
                     </p>
                     <div>
                         <p className="font-inter text-base text-gray-dim leading-loose">
-                            Her designs are known for their opulence, high-end materials, and meticulous attention to detail, ensuring both comfort and sophistication. Sophia's dedication to excellence and ability to capture her clients' visions have made her a sought-after name in the industry.</p>
+                            Her designs are known for their opulence, high-end materials, and meticulous attention to detail, ensuring both comfort and sophistication. Sophia&apos;s dedication to excellence and ability to capture her clients&apos; visions have made her a sought-after name in the industry.</p>
                         <p className="font-inter text-base text-gray-dim leading-loose">
                             Outside of work, Sophia enjoys sailing, traveling, and exploring new design trends, bringing her love for the sea into every project she undertakes.</p>
                     </div>
                 </div>
                 <div>
-                    <h5 className="font-lora text-[28px] font-normal text-primary-one max-w-[710px] w-full">Quote</h5>
                     <p className="font-inter text-black-light leading-loose font-semibold text-lg">
-                        A yacht should be more than just a vessel; it should be a floating masterpiece that exudes luxury and serenity." - <span className="text-primary-one">Sophia Bennett</span>
+                        &quot;A yacht should be more than just a vessel; it should be a floating masterpiece that exudes luxury and serenity.&quot; - <span className="text-primary-one">Sophia Bennett</span>
                     </p>
                 </div>
             </div>

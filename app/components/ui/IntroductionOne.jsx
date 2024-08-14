@@ -8,7 +8,7 @@ const IntroductionOne = () => {
             <div className="flex flex-col gap-[30px]">
                 <div className="flex flex-col gap-5">
                     <h4 className="font-lora text-[40px] font-normal text-blue-light max-w-[710px] w-full">Brief Introduction to the <span className="text-primary-one">Luxury Yacht</span></h4>
-                    <p className="font-inter text-lg text-gray-dim">The "Elysian Dream" embodies the pinnacle of opulence and elegance on the water. This exquisite yacht offers unparalleled comfort and sophistication, ensuring an unforgettable yachting experience. With state-of-the-art amenities, bespoke interiors, and a timeless design, the "Elysian Dream" is your sanctuary on the high seas.</p>
+                    <p className="font-inter text-lg text-gray-dim">The &apos;Elysian Dream&apos; embodies the pinnacle of opulence and elegance on the water. This exquisite yacht offers unparalleled comfort and sophistication, ensuring an unforgettable yachting experience. With state-of-the-art amenities, bespoke interiors, and a timeless design, the &apos;Elysian Dream&apos; is your sanctuary on the high seas.</p>
                 </div>
                 <div className="flex flex-col gap-5">
                     <h5 className="text-[28px] text-black">Key Features and Highlights</h5>
